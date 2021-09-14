@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5adb17ec-6ebf-4fee-879d-17ced84ba3fb}</ProjectGuid>
-    <RootNamespace>Lesson2Sample1</RootNamespace>
+    <ProjectGuid>{aff49417-f1e6-4a46-9a0d-c730e604783d}</ProjectGuid>
+    <RootNamespace>Lesson3Sample2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>2-1. 화면에 문자열 출력하기</ProjectName>
+    <ProjectName>3-2. 변수의 값 바꾸기</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Sample1.cpp" />
+    <ClCompile Include="Sample2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

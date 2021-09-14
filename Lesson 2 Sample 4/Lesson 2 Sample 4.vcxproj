@@ -24,6 +24,7 @@
     <ProjectGuid>{d1a1c920-606d-4ae3-8113-4e31dc4f9d45}</ProjectGuid>
     <RootNamespace>Lesson2Sample4</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>2-4. 특수 문자 출력하기</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

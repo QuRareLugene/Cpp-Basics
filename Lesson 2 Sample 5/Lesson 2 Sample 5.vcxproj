@@ -24,6 +24,7 @@
     <ProjectGuid>{e5e12691-b796-43bb-9bd9-70fb8d6d06c5}</ProjectGuid>
     <RootNamespace>Lesson2Sample5</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>2-5. 문자 코드 사용하기</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
