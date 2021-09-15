@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3d74ea51-0655-4818-a823-0d1f6127f7bc}</ProjectGuid>
-    <RootNamespace>My37상수이용하기</RootNamespace>
+    <ProjectGuid>{7a4aedc1-09b4-43a9-9c14-60cbb80a3802}</ProjectGuid>
+    <RootNamespace>My0201화면에문자열출력하기</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Sample3-7.cpp" />
+    <ClCompile Include="Sample2-1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
