@@ -115,17 +115,17 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07-12. 함수를 오버로�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07-13. 함수 템플릿 사용하기", "07-13. 함수 템플릿 사용하기\07-13. 함수 템플릿 사용하기.vcxproj", "{DC3338A0-7254-432B-81EB-41E0DBC430AA}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 2", "Lesson 2", "{A79FA868-9184-45DF-9E33-3293AF541229}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 02", "Lesson 02", "{A79FA868-9184-45DF-9E33-3293AF541229}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 3", "Lesson 3", "{B85172D6-3C84-41B8-B6C6-893FE8C7EC12}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 03", "Lesson 03", "{B85172D6-3C84-41B8-B6C6-893FE8C7EC12}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 4", "Lesson 4", "{CE420F0B-6C26-4F1A-BB1F-D9C326F3E04B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 04", "Lesson 04", "{CE420F0B-6C26-4F1A-BB1F-D9C326F3E04B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 5", "Lesson 5", "{90042040-585D-440A-866B-E6C8F70CCD98}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 05", "Lesson 05", "{90042040-585D-440A-866B-E6C8F70CCD98}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 6", "Lesson 6", "{C97D527E-FD3A-4B29-8ED3-AD55631FFE09}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 06", "Lesson 06", "{C97D527E-FD3A-4B29-8ED3-AD55631FFE09}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 7", "Lesson 7", "{83E955F4-195B-4029-8E2B-01434B9FCBC0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 07", "Lesson 07", "{83E955F4-195B-4029-8E2B-01434B9FCBC0}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08-01. 주소 출력하기", "08-01. 주소 출력하기\08-01. 주소 출력하기.vcxproj", "{338ABBB3-2A49-4535-B65D-860CD2435C0D}"
 EndProject
@@ -145,7 +145,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08-08. 레퍼런스 사용�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08-09. 레퍼런스를 함수의 인수로 사용하기", "08-09. 레퍼런스를 함수의 인수로 사용하기\08-09. 레퍼런스를 함수의 인수로 사용하기.vcxproj", "{C49021C5-98EE-45A6-B6C0-0367DD229B89}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 8", "Lesson 8", "{80CB3205-D096-4A26-9B30-CD9E86899912}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 08", "Lesson 08", "{80CB3205-D096-4A26-9B30-CD9E86899912}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09-01. 배열 요소의 값 출력하기", "09-01. 배열 요소의 값 출력하기\09-01. 배열 요소의 값 출력하기.vcxproj", "{B826B059-ED29-4A82-9EBF-492A20D01D3F}"
 EndProject
@@ -171,7 +171,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09-11. 표준 라이브러�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09-12. 표준 라이브러리 strcpy() 함수 사용하기", "09-12. 표준 라이브러리 strcpy() 함수 사용하기\09-12. 표준 라이브러리 strcpy() 함수 사용하기.vcxproj", "{B4FBE5CA-440F-4F1A-BF46-97EF8057439A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 9", "Lesson 9", "{BECBF8E1-EB6E-44A5-87E3-459BF57C6675}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 09", "Lesson 09", "{BECBF8E1-EB6E-44A5-87E3-459BF57C6675}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10-01. 변수 스코프 이해하기", "10-01. 변수 스코프 이해하기\10-01. 변수 스코프 이해하기.vcxproj", "{E1105EF1-02EE-44B9-8D70-31C891C58267}"
 EndProject
@@ -182,6 +182,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10-04. 배열을 동적으로 확보하기", "10-04. 배열을 동적으로 확보하기\10-04. 배열을 동적으로 확보하기.vcxproj", "{281B14F1-7983-4C6B-868C-6A096626F25B}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10-05. 파일 분할하기", "10-05. 파일 분할하기\10-05. 파일 분할하기.vcxproj", "{69C8A409-47C8-4914-9C7F-00B1BA26D44E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson 10", "Lesson 10", "{78431068-5701-49BE-9D8F-DE19B10B219E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -929,6 +931,11 @@ Global
 		{C78A5056-906D-4A6C-94DD-C330798A8ABB} = {BECBF8E1-EB6E-44A5-87E3-459BF57C6675}
 		{9BBC4BF0-638C-41BD-BE40-8090B6BEE09B} = {BECBF8E1-EB6E-44A5-87E3-459BF57C6675}
 		{B4FBE5CA-440F-4F1A-BF46-97EF8057439A} = {BECBF8E1-EB6E-44A5-87E3-459BF57C6675}
+		{E1105EF1-02EE-44B9-8D70-31C891C58267} = {78431068-5701-49BE-9D8F-DE19B10B219E}
+		{E412B9F8-B16F-4770-88FA-63920A2C2946} = {78431068-5701-49BE-9D8F-DE19B10B219E}
+		{C32612A7-3042-4BAD-82C2-B4F5173C33D5} = {78431068-5701-49BE-9D8F-DE19B10B219E}
+		{281B14F1-7983-4C6B-868C-6A096626F25B} = {78431068-5701-49BE-9D8F-DE19B10B219E}
+		{69C8A409-47C8-4914-9C7F-00B1BA26D44E} = {78431068-5701-49BE-9D8F-DE19B10B219E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4AC7A728-E609-482A-8284-0309DF82AE55}
